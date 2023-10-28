@@ -2,7 +2,7 @@
 
 📚 Slang word thesaurus designed for assisting the creation of NOT SURE IF memes.
 
-![Repo_Card](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus/assets/123030236/6985be1e-5aba-4688-a2f0-04efebf98a3a)
+![Meme_Maker](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus/assets/123030236/dcdbef04-1f97-4a1e-85b8-522b04f30e21)
 
 #
 Copyright (C) 2023,  Sourceduty - All Rights Reserved.
