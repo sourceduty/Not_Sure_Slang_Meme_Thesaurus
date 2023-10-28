@@ -1,4 +1,4 @@
-#Not_Sure_Slang_Meme_Thesaurus V3.0
+#Not_Sure_Slang_Meme_Thesaurus V2.4
 
 #Slang word thesaurus designed for assisting the creation of NOT SURE IF memes.
 
