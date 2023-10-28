@@ -1,8 +1,5 @@
 "Example": ["or Slang"]
 
-recheck and make sure they are funny
-
-
 "ace": ["or expert"]
 "acid": ["or LSD"]
 "act": ["or mimicking"]
